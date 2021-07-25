@@ -1,3 +1,7 @@
+## React Guide Project
+
+본 프로젝트는 React 가이드 목적으로 만들어진 My Spend Web 프로젝트 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
