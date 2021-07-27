@@ -1,6 +1,6 @@
-## React Guide Project
+## React Guide Project 1
 
-본 프로젝트는 React 가이드 목적으로 만들어진 My Spend Web 프로젝트 입니다.
+본 프로젝트는 React 가이드 목적으로 만들어진 프로젝트 입니다.
 
 # Getting Started with Create React App
 
